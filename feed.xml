@@ -12,7 +12,7 @@
     <copyright>Copyright 2017. All Rights Reserved.</copyright>
     <itunes:subtitle>The Official podcast of Boost League Soccar</itunes:subtitle>
     <pubDate>Mon, 23 Jan 2017 22:30:00 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Jan 2017 22:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2017 23:1411:14 PM 1/23/2017:00 -0500</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>doctormcboop@gmail.com (DoctorMcBoop)</webMaster>
 
@@ -39,9 +39,57 @@
         <itunes:summary>DoctorMcBoop and The Static Discuss games played on January 5th, 2017</itunes:summary>
         <itunes:image href="http://archive.org/download/blspodcast/blspodcast.png" />
         <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep0/CandCep0.mp3" length="25606687" type="audio/mpeg"/>
-        <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep0/CandCep0.mp3</guid>
+        <guid>http://dts.podtrac.com/redirect.mp3/10:37 PM 1/23/2017archive.org/download/CandCep0/CandCep0.mp3</guid>
         <pubDate>Fri, 6 Jan 2017 22:00:00 -0500</pubDate>
         <itunes:duration>35:33</itunes:duration>
+      </item>
+
+      <item>
+        <title>Episode 1 - Jan. 10, 2017</title>
+        <itunes:author>DoctorMcBoop and SouthEndXGF</itunes:author>
+        <itunes:subtitle>DoctorMcBoop and SouthEndXGF discuss games played on January 10th, 2017</itunes:subtitle>
+        <itunes:summary>DoctorMcBoop and SouthEndXGF discuss games played on January 10th, 2017 and look ahead to those being played on the 12th!</itunes:summary>
+        <itunes:image href="http://archive.org/download/blspodcast/blspodcast.png" />
+        <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep1/CandCep1.mp3" length="15958509" type="audio/mpeg"/>
+        <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep1/CandCep1.mp3</guid>
+        <pubDate>Wed, 11 Jan 2017 01:00:00 -0500</pubDate>
+        <itunes:duration>22:09</itunes:duration>
+      </item>
+
+      <item>
+        <title>Episode 2 - Jan. 12, 2017</title>
+        <itunes:author>DoctorMcBoop and SouthEndXGF</itunes:author>
+        <itunes:subtitle>DoctorMcBoop and SouthEndXGF discuss games played on January 12th, 2017</itunes:subtitle>
+        <itunes:summary>DoctorMcBoop and SouthEndXGF discuss games played on January 12th, 2017 and look ahead to those being played on the 17th!</itunes:summary>
+        <itunes:image href="http://archive.org/download/blspodcast/blspodcast.png" />
+        <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep2/CandCep2.mp3" length="22865711" type="audio/mpeg"/>
+        <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep2/CandCep2.mp3</guid>
+        <pubDate>Sun, 15 Jan 2017 05:00:00 -0500</pubDate>
+        <itunes:duration>31:45</itunes:duration>
+      </item>
+
+      <item>
+        <title>Episode 3 - Jan. 17, 2017</title>
+        <itunes:author>DoctorMcBoop and SouthEndXGF</itunes:author>
+        <itunes:subtitle>DoctorMcBoop and SouthEndXGF discuss games played on January 17th, 2017</itunes:subtitle>
+        <itunes:summary>DoctorMcBoop and SouthEndXGF discuss games played on January 17th, 2017 and look ahead to those being played on the 19th!</itunes:summary>
+        <itunes:image href="http://archive.org/download/blspodcast/blspodcast.png" />
+        <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep3/CandCep3.mp3" length="14509557" type="audio/mpeg"/>
+        <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep3/CandCep3.mp3</guid>
+        <pubDate>Wed, 18 Jan 2017 01:00:00 -0500</pubDate>
+        <itunes:duration>20:09</itunes:duration>
+      </item>
+
+      <item>
+        <title>Episode 4 - Jan. 19, 2017</title>
+        <itunes:author>DoctorMcBoop and SouthEndXGF</itunes:author>
+        <itunes:subtitle>DoctorMcBoop and SouthEndXGF discuss games played on January 19th, 2017</itunes:subtitle>
+        <itunes:summary>DoctorMcBoop and SouthEndXGF discuss games played on January 19th, 2017 and look ahead to those being played on the 24th!</itunes:summary>
+        <itunes:image href="http://archive.org/download/blspodcast/blspodcast.png" />
+        <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep4t/CandCep4t.mp3" length="12809299" type="audio/mpeg"/>
+        <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep4t/CandCep4t.mp3</guid>
+        <pubDate>Sun, 22 Jan 2017 14:00:00 -0500</pubDate>
+        <itunes:duration>17:47</itunes:duration>
       </item>
     
   </channel>
