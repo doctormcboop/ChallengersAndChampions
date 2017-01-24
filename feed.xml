@@ -12,7 +12,7 @@
     <copyright>Copyright 2017. All Rights Reserved.</copyright>
     <itunes:subtitle>The Official podcast of Boost League Soccar</itunes:subtitle>
     <pubDate>Mon, 23 Jan 2017 22:30:00 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Jan 2017 23:1411:14 PM 1/23/2017:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jan 2017 00:06:14 PM 1/23/2017:00 -0500</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>doctormcboop@gmail.com (DoctorMcBoop)</webMaster>
 
@@ -39,7 +39,7 @@
         <itunes:summary>DoctorMcBoop and The Static Discuss games played on January 5th, 2017</itunes:summary>
         <itunes:image href="http://archive.org/download/blspodcast/blspodcast.png" />
         <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep0/CandCep0.mp3" length="25606687" type="audio/mpeg"/>
-        <guid>http://dts.podtrac.com/redirect.mp3/10:37 PM 1/23/2017archive.org/download/CandCep0/CandCep0.mp3</guid>
+        <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep0/CandCep0.mp3</guid>
         <pubDate>Fri, 6 Jan 2017 22:00:00 -0500</pubDate>
         <itunes:duration>35:33</itunes:duration>
       </item>
