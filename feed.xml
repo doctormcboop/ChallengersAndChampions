@@ -39,7 +39,7 @@
         <itunes:summary>DoctorMcBoop and The Static Discuss games played on January 5th, 2017</itunes:summary>
         <itunes:image href="http://archive.org/download/blspodcast/blspodcast.png" />
         <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep0/CandCep0.mp3" length="25606687" type="audio/mpeg"/>
-        <guid>https://archive.org/download/CandCep0/CandCep0.mp3</guid>
+        <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep0/CandCep0.mp3</guid>
         <pubDate>Fri, 6 Jan 2017 22:00:00 -0500</pubDate>
         <itunes:duration>35:33</itunes:duration>
       </item>
