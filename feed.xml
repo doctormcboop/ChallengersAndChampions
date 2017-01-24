@@ -1,0 +1,31 @@
+  <?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Challengers and Champions</title>
+    <link>https://doctormcboop.github.io/ChallengersAndChampions/</link>
+    <language></language>
+    <copyright>Copyright 2017. All Rights Reserved.</copyright>
+    <itunes:subtitle>The Official Podcast of Boost League Soccar</itunes:subtitle>
+    <itunes:author>DoctorMcBoop</itunes:author>
+    <itunes:summary>Analysis of Boost League Soccar</itunes:summary>  
+    <itunes:owner>
+      <itunes:name>DoctorMcBoop</itunes:name>
+      <itunes:email>doctormcboop@rocketsportsassocation.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://archive.org/download/blspodcast/blspodcast.png" />
+    <itunes:category text="Video Games"/>
+    
+      <item>
+        <title>Episode 0 - Jan. 5, 2017</title>
+        <itunes:author>DoctorMcBoop and The Static</itunes:author>
+        <itunes:subtitle>DoctorMcBoop and The Static Discuss games played on January 5th, 2017</itunes:subtitle>
+        <itunes:summary>DoctorMcBoop and The Static Discuss games played on January 5th, 2017</itunes:summary>
+        <itunes:image href="https://archive.org/download/blspodcast/blspodcast.png" />
+        <enclosure url="https://archive.org/download/CandCep0/CandCep0.mp3" length="25606687" type="audio/mpeg"/>
+        <guid>https://archive.org/download/CandCep0/CandCep0.mp3</guid>
+        <pubDate>Mon Jan 23 2017 21:19:05 GMT-0500 (Eastern Standard Time)</pubDate>
+        <itunes:duration>35:33</itunes:duration>
+      </item>
+    
+  </channel>
+  </rss>
