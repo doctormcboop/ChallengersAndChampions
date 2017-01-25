@@ -12,7 +12,7 @@
     <copyright>Copyright 2017. All Rights Reserved.</copyright>
     <itunes:subtitle>The Official podcast of Boost League Soccar</itunes:subtitle>
     <pubDate>Mon, 23 Jan 2017 22:30:00 -0500</pubDate>
-    <lastBuildDate>Tue, 24 Jan 2017 00:06:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2017 01:55:00 -0500</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>doctormcboop@gmail.com (DoctorMcBoop)</webMaster>
 
@@ -90,6 +90,18 @@
         <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep4t/CandCep4t.mp3</guid>
         <pubDate>Sun, 22 Jan 2017 14:00:00 -0500</pubDate>
         <itunes:duration>17:47</itunes:duration>
+      </item>
+
+      <item>
+        <title>Episode 5 - Jan. 24, 2017</title>
+        <itunes:author>DoctorMcBoop and SouthEndXGF</itunes:author>
+        <itunes:subtitle>DoctorMcBoop and SouthEndXGF discuss games played on January 24th, 2017</itunes:subtitle>
+        <itunes:summary>DoctorMcBoop and SouthEndXGF discuss games played on January 24th, 2017 and look ahead to the BLS Season 3 Playoffs!</itunes:summary>
+        <itunes:image href="http://archive.org/download/blspodcast/blspodcast.png" />
+        <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCrp5/CandCrp5.mp3" length="20245106" type="audio/mpeg"/>
+        <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCrp5/CandCrp5.mp3</guid>
+        <pubDate>Wed, 25 Jan 2017 01:55:00 -0500</pubDate>
+        <itunes:duration>28:17</itunes:duration>
       </item>
     
   </channel>
