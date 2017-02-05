@@ -12,7 +12,7 @@
     <copyright>Copyright 2017. All Rights Reserved.</copyright>
     <itunes:subtitle>The Official podcast of Boost League Soccar</itunes:subtitle>
     <pubDate>Mon, 23 Jan 2017 22:30:00 -0500</pubDate>
-    <lastBuildDate>Fri, 27 Jan 2017 12:10:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2017 03:20:00 -0500</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>doctormcboop@gmail.com (DoctorMcBoop)</webMaster>
 
@@ -114,6 +114,19 @@
         <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/CandCep6/CandCep6PreCompression.mp3</guid>
         <pubDate>Fri, 27 Jan 2017 12:10:00 -0500</pubDate>
         <itunes:duration>9:09</itunes:duration>
+      </item>
+
+
+      <item>
+        <title>Episode 7 - Feb. 2, 2017</title>
+        <itunes:author>DoctorMcBoop and SouthEndXGF</itunes:author>
+        <itunes:subtitle>DoctorMcBoop and SouthEndXGF discuss games played on February 2nd, 2017</itunes:subtitle>
+        <itunes:summary>DoctorMcBoop and SouthEndXGF discuss games played on February 2nd, 2017 and look ahead to those being played on the 7th!</itunes:summary>
+        <itunes:image href="http://archive.org/download/blspodcast/blspodcast.png" />
+        <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/ChallengersAndChampionsEp7/C&C%207%20Final.mp3" length="17699923" type="audio/mpeg"/>
+        <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/ChallengersAndChampionsEp7/C&C%207%20Final.mp3/guid>
+        <pubDate>Sun, 05 Feb 2017 03:20:00 -0500</pubDate>
+        <itunes:duration>24:34</itunes:duration>
       </item>
     
   </channel>
